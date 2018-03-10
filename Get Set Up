@@ -1,0 +1,5 @@
+Make sure you have a Temboo account. If you don't already have one, you can register for a free account here.
+You'll also need a Twilio account, which you can create for free here.
+The sketch needs your Twilio phone number, along with the Account SID and Auth Token you get when you register with Twilio. Make sure to use the Account SID and Auth Token from your Twilio Dashboard, shown below, as opposed to the test credentials from the Dev Tools panel.
+When using a free Twilio account, you'll need to verify the phone number to which messages are being sent by going to Twilio and following the instructions under the "Numbers > Verified Caller IDs" tab. Make sure that your Yún is connected to the Internet.
+Make sure that your Yún is connected to the Internet.
