@@ -1,0 +1,10 @@
+The sketch above references the TembooAccount.h header file, which contains your Temboo account information.
+
+If you are currently logged in, you'll see your account details in the code snippet below (otherwise you'll see placeholder values). 
+Copy the code snippet into a new tab in Arduino and call it TembooAccount.h.
+
+With both files in place you are ready to upload the sketch and send an SMS from your Yún. Text away!
+
+#define TEMBOO_ACCOUNT "accountName"  // your Temboo account name 
+#define TEMBOO_APP_KEY_NAME "myFirstApp"  // your Temboo app key name
+#define TEMBOO_APP_KEY  "abc123xxxxxxxxxxxxxx"  // your Temboo app key
